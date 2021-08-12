@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1531685250784-7569952593d2?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8d2hpdGUlMjBicmlja3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+    background-size: 500px 100px;
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-position: center top 5px ; 
+    background-color: rgb(192, 228, 215);
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+}
